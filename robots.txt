@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ediflick.com/sitemap.xml
