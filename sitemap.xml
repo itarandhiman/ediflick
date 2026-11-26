@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://ediflick.com/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-26</lastmod>
+    <image:image><image:loc>https://ediflick.com/og-image.jpg</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://ediflick.com/work/toj-44-teaser.jpg</video:thumbnail_loc>
+      <video:title>The Ownership Journey, episode 44 teaser</video:title>
+      <video:description>Podcast teaser edited by Ediflick for The Ownership Journey, hosted by James Lamb.</video:description>
+      <video:content_loc>https://ediflick.com/work/toj-44-teaser.mp4</video:content_loc>
+      <video:duration>47</video:duration>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://ediflick.com/work/search-matrix-reel.jpg</video:thumbnail_loc>
+      <video:title>Search Matrix AI founder reel</video:title>
+      <video:description>Vertical founder reel with motion graphics, edited by Ediflick for Search Matrix AI.</video:description>
+      <video:content_loc>https://ediflick.com/work/search-matrix-reel.mp4</video:content_loc>
+      <video:duration>44</video:duration>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://ediflick.com/work/podcast-story-reel.jpg</video:thumbnail_loc>
+      <video:title>Podcast story reel</video:title>
+      <video:description>Story-led vertical podcast clip with animated captions, edited by Ediflick.</video:description>
+      <video:content_loc>https://ediflick.com/work/podcast-story-reel.mp4</video:content_loc>
+      <video:duration>30</video:duration>
+    </video:video>
   </url>
 </urlset>
